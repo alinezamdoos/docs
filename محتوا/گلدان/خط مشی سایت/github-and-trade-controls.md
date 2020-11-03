@@ -5,6 +5,7 @@ redirect_from:
   - /articles/github-and-trade-control
   - /articles/github-and-trade-controls
   - /github/site-policy/github-and-export-controls
+versions: /github/site-policy/github-and-export-controls
 versions:
   free-pro-team: '*'
 ---
